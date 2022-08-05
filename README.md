@@ -13,7 +13,7 @@ player correctly guesses each marine mammal). Acoustic researchers use the same 
 database to conduct new studies and maintain records for status updates on endangered or threatened marine
 mammals.
 
-## Quantifying Translation Rate of Mitochondrial mRNA¶
+## Quantifying Translation Rate of Mitochondrial mRNA
 The goal of our project is to analyze raw data representing protein expression over time and infer translation elongation times of those genes of interest.
 
 After DNA gets transcribed to mRNA in the cytoplasm, mRNA gets translated to protein. The translation elongation process has especially been found to be integral to mRNA localization to the mitochondria. Because the mitochondria is an important organelle for ATP production, our group wanted to calculate the rate of translation elongation of nuclear-encoded mitochondrial genes.
