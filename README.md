@@ -5,7 +5,7 @@ Students can choose a topic that extends an application from one of the assignme
   * Create a chatbot using the framework from the “guessing game” challenge.
   * Write a program that will generate plots for various datasets of the same format
   * Look for specific gene alleles in complex DNA sequences
-2. Analyze & visualize data of your choosing
+2. Analyze & visualize data of the students' choosing
   * [Possible Datasets](https://docs.google.com/spreadsheets/d/1HsgkH2Ok_7ED_WFr9fIJ6PEPsm369L3HNFNUaXKRPX8/edit?usp=sharing)
 
 ### Project Scope
