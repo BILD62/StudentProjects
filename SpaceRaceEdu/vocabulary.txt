@@ -1,0 +1,14 @@
+cerebrum, control, n
+cerebellum, balance, n
+Eye, vision, n
+Ear, audition, n
+nose, olfaction, n
+Mouth, taste, n
+Heart, blood, n
+Stomach, digest, n
+Liver, detoxification, n
+Lung, breath, n
+
+
+
+
